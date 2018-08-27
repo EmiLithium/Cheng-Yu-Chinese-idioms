@@ -2,8 +2,7 @@
 
 Self-explanatory for now. Might add a description later.
 
-##
-Dataframe tutorials:
+## Dataframe tutorials:
 
 - https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
 - http://pbpython.com/pandas-list-dict.html
