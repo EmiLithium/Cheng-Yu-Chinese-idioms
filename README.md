@@ -2,6 +2,12 @@
 
 Self-explanatory for now. Might add a description later.
 
+##
+Dataframe tutorials:
+
+- https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
+- http://pbpython.com/pandas-list-dict.html
+
 ## Contributing guidelines
 
 I'd love more idioms to be added to this dataframe. To keep the quality as high 
