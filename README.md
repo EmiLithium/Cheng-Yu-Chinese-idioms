@@ -1,6 +1,6 @@
 # A dataframe of Cheng Yu (Chinese idioms) and translations
 
-Text
+Self-explanatory for now. Might add a description later.
 
 ## Contributing guidelines
 
