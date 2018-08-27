@@ -1,6 +1,12 @@
 # A dataframe of Cheng Yu (Chinese idioms) and translations
 
-Self-explanatory for now. Might add a description later.
+This repo nurtures a growing dataframe of Chinese idioms, their meanings, and translations into English. The dataframe is structured to be modular and flexible for use in typesetting/printing flashcards or other memory card games. The dataframe also considers that translations into languages other than English may be added later.
+
+Dataframes can be made from scraped websites and then joined to the main dataframe. A full join matched by characters (if possible, or pinyin) is preferable to ensure no repeating entries. A full join also opens the possibility of adding more language translations wherever they are found.
+
+Issues that still need planning:
+- How to associate image files with entries
+- How to eliminate/minimize/deal with human error on full joins (e.g. One scraped dataframe adds a whole new column called 'pingying' instead of 'pinyin' for only 148 entries. A human could go back through and fix this but it's a PITA. Probably best to have some kind of QA on scraped dataframes.)
 
 ## Dataframe tutorials:
 
