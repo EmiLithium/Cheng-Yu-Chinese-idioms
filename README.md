@@ -1,6 +1,8 @@
 # A dataframe of Cheng Yu (Chinese idioms) and translations
 
-This repo nurtures a growing dataframe of Chinese idioms, their meanings, and translations into English. The dataframe is structured to be modular and flexible for use in typesetting/printing flashcards or other memory card games, and for later translations into languages other than English.
+This repo contains a small dataframe of Chinese idioms, their meanings, and translations into English. I'm using this structure to make the info modular and flexible for use in typesetting/printing flashcards or other memory card games, and for later translations into languages other than English.
+
+There are so many idioms. This will probably take a super long time.
 
 ## Dataframe tutorials:
 
@@ -9,9 +11,7 @@ This repo nurtures a growing dataframe of Chinese idioms, their meanings, and tr
 
 ## Contributing guidelines
 
-I'd love more idioms to be added to this dataframe. To keep the quality as high 
-as possible, I would like contributions to adhere to the following guidelines 
-(modeled after GitHubs's [gitignore contribution guidelines](https://github.com/github/gitignore/edit/master/README.md)).
+Contribution guidelines modeled after GitHubs's [gitignore contribution guidelines](https://github.com/github/gitignore/edit/master/README.md):
 
 - **Provide links to documentation** supporting the change you’re making.
   If documentation isn’t available to support your change, do the best you can
@@ -41,7 +41,7 @@ fork the project and prompt you to send a pull request.
 [GPL-3.0](./LICENSE).
 
 # What are Cheng Yu?
-The rest of this is copied from [this blog post](http://blog.tutorming.com/mandarin-chinese-learning-tips/how-to-use-chengyu-properly).
+Excerpt from [this blog post](http://blog.tutorming.com/mandarin-chinese-learning-tips/how-to-use-chengyu-properly):
 
 ## 成语
 Chengyu (成语 Chéngyǔ) are idiomatic phrases which usually consist of four characters. Because many chengyu originate from classical Chinese, they are most often found in written, rather than spoken language. Although many Chinese language programs include them in their textbook vocabulary, chengyu are not essential to learning functional Chinese, and studying too many of them is probably unnecessary (until you are at an advanced reading level to where you start to encounter them frequently). Chengyu are more limited in their usage, and it isn't possible to "experiment" with using them in your own ways like it is with most other vocabulary words. However, there are interesting stories behind many of them from which you can learn Chinese culture and history, which might be why Chinese textbooks include them. 
