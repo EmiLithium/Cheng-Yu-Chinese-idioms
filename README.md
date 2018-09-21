@@ -13,7 +13,7 @@ There are so many idioms. This will probably take a super long time.
 
 Contribution guidelines modeled after GitHubs's [gitignore contribution guidelines](https://github.com/github/gitignore/edit/master/README.md):
 
-- **Provide links to documentation** supporting the change you’re making.
+**Provide links to documentation** supporting the change you’re making.
   If documentation isn’t available to support your change, do the best you can
   to explain why you are making the change, even if it seems self-evident.
 
